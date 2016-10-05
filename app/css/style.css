@@ -1,0 +1,16 @@
+p {
+  font-size: 18px;
+  margin: 0 0 15px 0;
+}
+
+a {
+  text-decoration: none;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial';
+  background: #ccc;
+  font-size: 12px;
+}
